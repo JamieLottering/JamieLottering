@@ -1,3 +1,3 @@
-## 👋 I'm Jamie Lottering. Currently a Senior Software Engineer at Coinbase.
+## 👋 I'm Jamie Lottering.
 
 https://keybase.io/jamielottering
