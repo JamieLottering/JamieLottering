@@ -2,6 +2,7 @@
 
 FE Engineer currently working @[rabbithole.gg](https://www.rabbithole.gg)
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 xsFNBGBZMWwBEADwnxbvmXwaBrEWfAwsl3CX++yD+TD8PkZPutEVkKwe333CY7bA
 91DrSOd2F1juKS09SGv98A0F4MYbUm3r6BVfYIRtRdPna6qtKAmzdSfYEzsW8Aga
@@ -52,3 +53,4 @@ rKJfZj8qFyv6BlLJ656WpuSWMbOccR705STJsyolpOW9sNxng9okbGvs6+eob8sw
 lYk8uY17uvprDLTA/TH1LYiQQsM0FbqJizqy1WpJWA==
 =z3y/
 -----END PGP PUBLIC KEY BLOCK-----
+```
