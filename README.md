@@ -1,4 +1,4 @@
-FE Engineer currently working @[rabbithole.gg](https://www.rabbithole.gg)
+FE Engineer currently working @[boost.xyz](https://boost.xyz)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
